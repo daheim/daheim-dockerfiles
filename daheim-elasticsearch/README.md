@@ -1,0 +1,1 @@
+Built on https://github.com/itzg/dockerfiles/blob/master/elasticsearch/Dockerfile
